@@ -235,22 +235,22 @@ button {
     }
     
     .a{
-        position: relative;
+        position: absolute;
         top: 0px;
         left: -10%;
     }
     .b{
-        position: relative;
+        position: absolute;
         top: 0px;
         left: 24%;
     }
     .c{
-        position: relative;
+        position: absolute;
         bottom: 0px;
         left: 24%;
     }
     .d{
-        position: relative;
+        position: absolute;
         bottom: 0px;
         left: -10%;
     }
